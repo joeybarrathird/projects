@@ -12,6 +12,3 @@ the simSetup class. Using queues to simulate lines, I do several things per iter
 Such as, assigning customers to either a cashier (if available) or to a waitingQueue (the line),
 checking for availability for customers waiting in line, and whether or not the transaction
 between customers and cashiers was completed.
-
-The output of the simulation is written in the grocery package under the name
-output.txt
